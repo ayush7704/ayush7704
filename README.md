@@ -6,7 +6,7 @@ I’m focused on:
 - Building meaningful projects.
 - Improving my skills every day.
 
-- 📫 reach me through nagarayush570@gmail.com , Linkedin : ayush nagar
+- 📫 reach me through nagarayush570@gmail.com , Linkedin : Ayush Nagar (linkedin.com/in/ayush-nagar-front-end)
 
 <!---
 ayush7704/ayush7704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
